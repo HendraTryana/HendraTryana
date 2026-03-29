@@ -1,6 +1,6 @@
-# Hi, Hendra here! ⚛️
+# Hi, Hendra here!
 
-### 🎓 Physics Student @ Universitas Negeri Malang
+### 🎓 Physics Student @ State University of Malang
 *Computational Physics Enthusiast | Linux Tweak-er | Python Developer*
 
 ---
@@ -18,10 +18,11 @@
 - 💼 **Tasknesia:** Contributing as an academic support specialist for academic assistance service.
 - ⚛️ **Physics Simulation:** Solving quantum and relativistic equations using Python.
 - 🎨 **Dotfiles:** Fine-tuning my Zsh + Hyprland workflow for maximum productivity.
-## 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HendraTryana&show_icons=true&theme=tokyonight&hide_border=true" alt="Hendra's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendraTryana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
+
+---
+
+### 📈 GitHub Activities
+![Hendra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HendraTryana&theme=tokyonight&hide_border=true)
+
 ---
 *"In this house, we obey the laws of thermodynamics!"* 🌡️
