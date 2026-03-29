@@ -11,7 +11,7 @@
 - **Editor:** ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white) (LazyVim + AI Integrated)
 - **Environment:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=flat-square&logo=ubuntu&logoColor=white) + **Hyprland WM** 🐧
 - **Editor:** ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white) (LazyVim user)
-- ** Using **HPC** for heavy computations.
+- Using **HPC** for heavy computations.
 
 ## 🔭 Currently Working On
 - 🤖 **Student Life Management AI:** Developing an AI-powered prototype to help students (especially MIPA faculty) manage their academic schedules, finances, and resources.
@@ -23,6 +23,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=HendraTryana&show_icons=true&theme=tokyonight&hide_border=true" alt="Hendra's Stats" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendraTryana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
-
 ---
 *"In this house, we obey the laws of thermodynamics!"* 🌡️
