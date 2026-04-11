@@ -19,6 +19,10 @@
 - ⚛️ **Physics Simulation:** Solving quantum and relativistic equations using Python.
 - 🎨 **Dotfiles:** Fine-tuning my Zsh + Hyprland workflow for maximum productivity.
 
+## 📫 Let's Connect!
+- **Email:** [contact@hendratryy.me](mailto:contact@hendratryy.me)
+- **Website:** [hendratryy.me](https://hendratryy.me)
+
 ---
 
 ### 📈 GitHub Activities
